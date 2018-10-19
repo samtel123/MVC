@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28124.53
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MyFirstEmpPage", "MyFirstEmpPage\MyFirstEmpPage.csproj", "{035A2321-280A-44D7-AC2A-007A8FB95B7E}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MyFirstEmpPage.Tests", "MyFirstEmpPage.Tests\MyFirstEmpPage.Tests.csproj", "{CDDCC758-B958-42A7-BDB6-03D89B4B3454}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{035A2321-280A-44D7-AC2A-007A8FB95B7E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{035A2321-280A-44D7-AC2A-007A8FB95B7E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{035A2321-280A-44D7-AC2A-007A8FB95B7E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{035A2321-280A-44D7-AC2A-007A8FB95B7E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{CDDCC758-B958-42A7-BDB6-03D89B4B3454}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CDDCC758-B958-42A7-BDB6-03D89B4B3454}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CDDCC758-B958-42A7-BDB6-03D89B4B3454}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CDDCC758-B958-42A7-BDB6-03D89B4B3454}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {E9B6917E-77FC-4180-B277-43674FBFAB89}
+	EndGlobalSection
+EndGlobal
